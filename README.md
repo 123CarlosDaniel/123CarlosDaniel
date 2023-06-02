@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Carlos DCM</h1>
-<h3 align="center">A passionate full stack developer from Perú</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **C++ and Webassembly**
+- 🌱 I’m currently learning **Webassembly with C++**
 
-- 👯 I’m looking to collaborate on **advanced projects**
+- 👯 I’m looking to collaborate on **full stack web projects**
 
 - 👨‍💻 All of my projects are available at [https://portfoliocarlosdcm.ml/](https://portfoliocarlosdcm.ml/)
 
-- 💬 Ask me about **react, typescript, node.js, C++**
+- 💬 Ask me about **Typescript, Node.js, Python, C++, Go**
 
 - 📫 How to reach me **carloss_jt@hotmail.com**
 
-- ⚡ Fun fact **I can learn anything**
+- ⚡ Fun fact **I'm not afraid of learning difficult concepts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
