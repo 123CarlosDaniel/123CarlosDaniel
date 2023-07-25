@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Typescript, Node.js, Python, C++, Go**
 
-- 📫 How to reach me **carloss_jt@hotmail.com**
+- 📫 How to reach me **cdcm.dev@gmail.com**
 
 - ⚡ Fun fact **I'm not afraid of learning difficult concepts**
 
