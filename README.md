@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **cdcm.dev@gmail.com**
 
-- ⚡ **I'm not afraid of learning difficult concepts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
