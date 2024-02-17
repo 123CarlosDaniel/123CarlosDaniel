@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfoliocarlosdcm.tk/](https://portfoliocarlosdcm.tk/)
 
-- 💬 Ask me about **Typescript, Node.js, Python, C++, Go**
+- 💬 Ask me about **Java, Python, C++, JavaScript, Node.js, Go**
 
 - 📫 How to reach me **cdcm.dev@gmail.com**
 
@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=123carlosdaniel&show_icons=true&locale=en&layout=compact" alt="123carlosdaniel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=123carlosdaniel&show_icons=true&locale=en" alt="123carlosdaniel" /></p>
+
