@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carlos DCM</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Carlos Daniel CM</h1>
+<h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **Webassembly with C++**
 
