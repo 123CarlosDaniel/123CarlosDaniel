@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Daniel CM</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🌱 I’m currently learning **Webassembly with C++**
+- 🌱 I’m currently learning **Android Development with Kotlin**
 
 - 👯 I’m looking to collaborate on **full stack web projects**
 
